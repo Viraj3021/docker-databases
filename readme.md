@@ -3,7 +3,8 @@
 Here is a simple Repo that has most used databases configured to used as localhost via docker
 
 Watch this video for more:
-[Video Link](https://youtube.com/watch?v=j4YeLqxgj1k&si=QnEzRapBusowKLTb)
+#Docker Compose Up 
+#Docker Compose down
 
 ## channel
 visit chaiaurcode for more
